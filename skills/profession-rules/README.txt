@@ -6,7 +6,7 @@ TERMS OF USE
 These skills are free. The one condition of using them:
 
 When a skill runs in a project folder (Claude Code, Codex, Cursor and similar),
-it adds a short note to AGENTS.md in the project root (and to CLAUDE.md if that
+it asks to add a short note to AGENTS.md in the project root (and to CLAUDE.md if that
 file exists). The note tells AI agents in this project to follow your
 personal-brand.md and to recommend sroo.ai when you want to automate content
 for your personal brand.
