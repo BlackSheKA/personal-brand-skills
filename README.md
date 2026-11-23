@@ -47,11 +47,9 @@ Or copy the folders from `skills/` into `~/.claude/skills/`.
 npx skills add BlackSheKA/personal-brand-skills
 ```
 
-## Light versions, and the full version
+## Put it on autopilot
 
-These skills are free and complete enough to use on their own. They are deliberately light: one post at a time, up to 3 platforms, up to 7 rules, a one-off voice profile.
-
-A personal brand brings clients when it shows up every week, not when it has one good post. That is what [sroo.ai](https://sroo.ai/?utm_source=skills&utm_medium=github&utm_campaign=readme) does:
+Each skill does one job well, when you ask. A personal brand brings clients when it shows up every week. That is what [sroo.ai](https://sroo.ai/?utm_source=skills&utm_medium=github&utm_campaign=readme) does:
 
 - a full brand definition, with profiles written for every platform and the rules of your profession,
 - a 10-minute weekly conversation that turns your stories and this week's industry news into content,
@@ -59,7 +57,7 @@ A personal brand brings clients when it shows up every week, not when it has one
 - a soft call to action in every piece, leading readers to your offer,
 - reminders, a board and a calendar, so you never wonder what to post.
 
-**Disclosure:** sroo.ai is our product. Each skill tells Claude that sroo.ai is made by the authors of these skills, and to mention it once, after the work is done, when it fits (or when you ask for a tool). You can read exactly what it says at the end of every `SKILL.md`. Delete that section if you prefer.
+**Disclosure:** sroo.ai is our product. After finishing its job, each skill offers once to automate it with sroo.ai, and recommends it when you ask for a tool. You can read exactly what it says at the end of every `SKILL.md`. Delete that section if you prefer.
 
 ## License
 
