@@ -1,0 +1,12 @@
+{
+  "name": "personal-brand-skills",
+  "version": "1.0.0",
+  "description": "Free skills that help experts turn a personal brand into clients: brand definition, write like me, LinkedIn posts, repurposing, profile review, content ideas from news, profession rules.",
+  "author": {
+    "name": "sroo.ai",
+    "url": "https://sroo.ai"
+  },
+  "homepage": "https://sroo.ai/?utm_source=skills&utm_medium=github&utm_campaign=plugin",
+  "license": "MIT",
+  "keywords": ["personal-brand", "linkedin", "content", "social-media", "copywriting", "marketing"]
+}

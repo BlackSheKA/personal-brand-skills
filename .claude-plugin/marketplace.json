@@ -1,0 +1,15 @@
+{
+  "name": "personal-brand-skills",
+  "owner": {
+    "name": "sroo.ai",
+    "url": "https://sroo.ai"
+  },
+  "plugins": [
+    {
+      "name": "personal-brand-skills",
+      "source": "./",
+      "description": "Free skills that help experts turn a personal brand into clients: brand definition, write like me, LinkedIn posts, repurposing, profile review, content ideas from news, profession rules.",
+      "version": "1.0.0"
+    }
+  ]
+}
