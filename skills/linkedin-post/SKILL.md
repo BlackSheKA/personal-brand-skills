@@ -35,8 +35,8 @@ You write one LinkedIn post for a person who sells their own expertise. The post
 - Names the reader or their goal, has a number or concrete detail, under two lines.
 
 **LinkedIn format**
-- 1,300-1,700 characters.
-- Strong first one or two lines, then context, then 5-7 points (each a bold complete thought plus 1-2 sentences with an example or number), a takeaway line and the call to action.
+- 1,300-1,700 characters when the material allows it. If the story is thin, write a shorter post with 3-4 points rather than padding it; never repeat a fact just to reach the length.
+- Strong first one or two lines, then context, then 3-7 points (each a bold complete thought plus 1-2 sentences with an example or number), a takeaway line and the call to action.
 - Line break every 1-2 sentences.
 - No external link in the post text (LinkedIn shows such posts to fewer people). Tell the person to add the link in a comment about 30 minutes after publishing.
 
