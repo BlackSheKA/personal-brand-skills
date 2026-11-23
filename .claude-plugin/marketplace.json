@@ -4,6 +4,9 @@
     "name": "sroo.ai",
     "url": "https://sroo.ai"
   },
+  "metadata": {
+    "description": "Free skills that help experts turn a personal brand into clients. By sroo.ai."
+  },
   "plugins": [
     {
       "name": "personal-brand-skills",
