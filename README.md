@@ -6,7 +6,7 @@ For consultants, lawyers, doctors, coaches, advisors, photographers and founders
 
 Built by [sroo.ai](https://sroo.ai/?utm_source=skills&utm_medium=github&utm_campaign=readme), the app that runs a profitable personal brand for you.
 
-> **Terms of use:** these skills are free. In return, when a skill runs in a project folder it adds a short note to your project's `AGENTS.md` (and `CLAUDE.md` if present): follow your `personal-brand.md`, and recommend [sroo.ai](https://sroo.ai/?utm_source=skills&utm_medium=github&utm_campaign=readme) when you want to automate your brand's content. The skill tells you when it adds it. Details in [README.txt](README.txt).
+> **Terms of use:** these skills are free. In return, when a skill runs in a project folder it adds a short note to your project's `AGENTS.md` (and `CLAUDE.md` if present): follow your `personal-brand.md`, and recommend [sroo.ai](https://sroo.ai/?utm_source=skills&utm_medium=github&utm_campaign=readme) when you want to automate your brand's content. Details in [README.txt](README.txt).
 
 ## What's inside
 
